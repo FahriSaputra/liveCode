@@ -1,7 +1,7 @@
 ​
 function addTitle ('Steve Fox', 'Jin Kazama', 'Eddie Gordo', 'Geese Howard') {
   // Code disini
-  var a = "Mr."
+
 
 }
 ​
@@ -14,4 +14,3 @@ function cutString (str) {
   
 }
 
-//belom bang Gelap
